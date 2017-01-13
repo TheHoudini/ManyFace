@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ManyFace:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="manyface.war">
+      <element id="artifact" artifact-name="ManyFace:war exploded" />
+    </root>
+  </artifact>
+</component>
